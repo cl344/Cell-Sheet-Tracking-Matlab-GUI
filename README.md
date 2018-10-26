@@ -10,4 +10,4 @@ representing a curve in an noisy background image.
 
 ##GUI Documentation
 
-![alt text](img_doc /img1.jpeg)
+![alt text](img_doc/img1.jpeg)
