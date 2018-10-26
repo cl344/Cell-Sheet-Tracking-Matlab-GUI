@@ -6,3 +6,8 @@
 * The algorithms generate the mathematical model of edge(spline) and automatically fit the edge to the shape of bright pixels
 representing a curve in an noisy background image.
 * The system assists CST to automatically correct its model for ground truth and thus save huge amount of human labor.
+
+
+##GUI Documentation
+
+![alt text](img_doc /img1.jpeg)
