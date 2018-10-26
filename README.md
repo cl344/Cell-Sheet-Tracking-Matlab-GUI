@@ -8,6 +8,9 @@ representing a curve in an noisy background image.
 * The system assists CST to automatically correct its model for ground truth and thus save huge amount of human labor.
 
 
-##GUI Documentation
+## GUI Documentation
 
 ![alt text](img_doc/img1.jpg)
+![alt text](img_doc/img2.jpg)
+![alt text](img_doc/img3.jpg)
+![alt text](img_doc/img4.jpg)
